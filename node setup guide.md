@@ -1,4 +1,4 @@
-# SETUP Instructions for running 'TYCO miner' or 'TYCO-rpc'
+# SETUP Instructions
 
 __________________________
 
@@ -131,7 +131,6 @@ _________________________
 ## Mmake a file 'start.sh' inside ".......build/bin" and save last geth command (according to miner or rpc) in that file and execute following command
 
 >chmod +x start.sh
-
 
 
 
